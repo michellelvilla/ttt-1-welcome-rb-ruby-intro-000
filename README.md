@@ -1,4 +1,4 @@
-# Welcome Message for Tic Tac Toe
+"Welcome to Tic Tac Toe!"
 
 ## Overview
 
